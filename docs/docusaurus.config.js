@@ -17,11 +17,6 @@ module.exports = {
     },
   ],
   themeConfig: {
-    gtag: {
-      trackingID: 'G-GBCRXFKRY8',
-      // Optional fields.
-      anonymizeIP: false, // Should IPs be anonymized?
-      },
     navbar: {
       title: 'ALPHA-VIDEO',
       logo: {
